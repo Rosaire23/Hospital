@@ -32,7 +32,7 @@ pour l'execution de cette application vous aurez besoin d'un JDK SE 8 ou une ver
 
 # Comment l'exécuter
 
-1. Clonez ce référentiel sur votre machine locale en utilisant la commande : git clone https://github.com/Rosaire23/Hospital
+1. Clonez ce référentiel sur votre machine locale en utilisant la commande : git clone (https://github.com/Rosaire23/Hospital.git)
 2. Accéder au répertoire racine du projet en utilisant : cd Hospital
 3. Créer une base des données MySQL et executez des scrpts SQL
 4. Mettre à jour le fichier persistence.xml avec les dérails de connexion à la base des données appropriée
